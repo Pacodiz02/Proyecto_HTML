@@ -284,7 +284,7 @@ td{border-width:0 1px;}
 /* Colours
 --------------------------------------------------------------------------------------------------------------- */
 body{color:#DFDFDF; background-color:#1A1A1A;}
-a{color:#c78673;}
+a{color:#3e739f;}
 a:active, a:focus{background:transparent;}/* IE10 + 11 Bugfix - prevents grey background */
 hr, .borderedbox{border-color:#D7D7D7;}
 label span{color:#FF0000; background-color:inherit;}
@@ -305,7 +305,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#FD8866;}
 /* Rows */
 .row0, .row0 a{color:#FFFFFF; background-color:#000000;}
 .row1{color:#474747; background-color:#FFFFFF;}
-.row2{color:#FFFFFF; background:linear-gradient(-90deg, #f80000, #b60f0f);}
+.row2{color:#FFFFFF; background:linear-gradient(-90deg, #00bef8, #0f89b6);}
 .row3{color:#474747; background-color:#FFFFFF;}
 .row4{color:#DFDFDF; background-color:#262626; border-color:#FA543A;}
 .row5, .row5 a{color:#DFDFDF; background-color:#1A1A1A;}
@@ -325,7 +325,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#FD8866;}
 #header #logo i{color:rgba(253,136,102,.5);}/* #FD8866 */
 #header section input, #header section button{border-color:rgba(0,0,0,.2);}
 #header section input:focus{border-color:#9ea018;}
-#header section button{color:#FFFFFF; background-color:#FD8866; border-color:#FA543A;}
+#header section button{color:#FFFFFF; background-color:#3e739f; border-color:#827f7e;}
 
 
 /* Page Intro */
@@ -363,7 +363,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#FD8866;}
 /* Navigation */
 #mainav li a{color:inherit;}
 #mainav .active a, #mainav a:hover, #mainav li:hover > a{color:#000000; background-color:inherit;}
-#mainav li li a, #mainav .active li a{color:#FFFFFF; background-color:rgba(250,84,58,.8);/* #FA543A */ border-color:rgba(250,84,58,1);/* #FA543A */}
+#mainav li li a, #mainav .active li a{color:#FFFFFF; background-color:rgba(112, 113, 123, 0.8);/* #FA543A */ border-color:rgba(223, 226, 246, 0.8);/* #FA543A */}
 #mainav li li:hover > a, #mainav .active .active > a{color:#000000; background-color:#FA543A;}
 #mainav form select{color:#474747; background-color:#FFFFFF;}
 
