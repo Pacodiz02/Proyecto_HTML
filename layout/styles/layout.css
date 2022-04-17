@@ -295,7 +295,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#FD8866;}
 .overlay.light{color:#474747;}
 .overlay.light::after{background-color:rgba(255,255,255,.7);}
 
-.btn, .btn.inverse:hover{color:#FFFFFF; background-color:#FD8866; border-color:#FD8866;}
+.btn, .btn.inverse:hover{color:#FFFFFF; background-color:#3e739f; border-color:#827f7e;}
 .btn:hover, .btn.inverse{color:inherit; background-color:transparent; border-color:inherit;}
 
 .imgover:hover::before{background:rgba(0,0,0,.55);}
@@ -357,7 +357,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#FD8866;}
 #footer input, #footer button{border-color:transparent;}
 #footer input{color:#474747; background-color:#FFFFFF;}
 #footer input:focus{border-color:#FD8866;}
-#footer button{color:#FFFFFF; background-color:#FD8866;}
+#footer button{color:#FFFFFF; background-color:#3e739f;}
 
 
 /* Navigation */
@@ -376,7 +376,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#FD8866;}
 .pagination a, .pagination strong{border-color:#D7D7D7;}
 .pagination .current *{color:#FFFFFF; background-color:#FD8866;}
 
-#backtotop{color:#FFFFFF; background-color:#FD8866;}
+#backtotop{color:#FFFFFF; background-color:#3e739f;}
 
 
 /* Tables + Comments */
