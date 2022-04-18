@@ -368,7 +368,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#FD8866;}
 #mainav form select{color:#474747; background-color:#FFFFFF;}
 
 #breadcrumb a{color:inherit; background-color:inherit;}
-#breadcrumb li:last-child a{color:#FD8866;}
+#breadcrumb li:last-child a{color:#000000;}
 
 .container .sidebar nav a{color:inherit; border-color:#D7D7D7;}
 .container .sidebar nav a:hover{color:#FD8866;}
